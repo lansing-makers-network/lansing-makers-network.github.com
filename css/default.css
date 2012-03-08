@@ -2,20 +2,19 @@
 
 body {
 	background: url('../img/darkdenim3.png');
+	font-family: sans-serif;
 }
 
 div#container {
 	margin: 0 auto;
 	width: 600px;
-	height: 400px;
-	
 	margin: 200px auto 0 auto;
 	background: #fff;
 	padding: 20px;
 	border: 2px solid black;
 	border-radius: 20px;
-	box-shadow: 0px 0px 30px #ddd;
-	background: url('../img/old_wall.png');
+	box-shadow: 0px 0px 20px #ddd;
+	background: url('../img/concrete_wall_2.png');
 }
 
 p.mission {
@@ -25,9 +24,11 @@ p.mission {
 	line-height: 20px;
 	border: 1px solid #ddd;
 	padding: 15px;
-	background: #efefef;
+	background: #fafafa;
+	font-family: serif;
 }
 
 h1 {
 	margin-top: 8px; 
+	text-align: center;
 }
